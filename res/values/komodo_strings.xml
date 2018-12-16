@@ -134,10 +134,6 @@
      <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
     <string name="ringtone2_title">Phone ringtone - SIM 2</string>
 
-    <!-- KomodOS Version -->
-    <string name="komodo_version">KomodOS version</string>
-    <string name="komodo_version_default">9.0</string>
-
     <!-- Omni Themes -->
     <string name="komodo_theme_select_title">System themes</string>
     <string name="omni_theme_select_none">Disabled</string>
@@ -367,6 +363,15 @@
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
     <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+
+    <!-- Komodo-OS info -->
+    <string name="komodo_title">Komodo</string>
+    <string name="komodo_info">Komodo version</string>
+    <string name="komodo_maintainer">Maintainer</string>
+    <string name="komodo_date">Build date</string>
+    <string name="komodo_type">Build type</string>
+    <string name="komodo_device">Device</string>
+    <string name="komodo_version">Version</string>
 
  </resources>
 
