@@ -74,8 +74,6 @@
     <string name="status_bar_battery_style_port">Портрет</string>
     <string name="status_bar_battery_style_circle">Круг</string>    
     <string name="battery_style_dotted_circle">Пунктирный круг</string>
-    <string name="battery_style_big_circle">Большой круг</string>
-    <string name="battery_style_big_dotted_circle">Большой пунктирный круг</string>
     <string name="status_bar_battery_style_text">Текст</string>  
     <string name="status_bar_battery_style_hidden">Скрыть</string>
 
