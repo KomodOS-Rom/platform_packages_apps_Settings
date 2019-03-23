@@ -327,6 +327,28 @@
 	
     <string name="battery_charging">Charging</string>
     <string name="battery_discharging">Discharging</string>
+	
+    <!-- About BeastROMs -->
+    <string name="beast_about_info">About us</string>
+    <string name="beast_about_summary">Our introduction and our team</string>
+    <string name="beast_about_info_summary">BeastROMs is an AOSP/CAF based Rom with customizations</string>
+    <string name="dev_info">About BeastROMs</string>
+    <string name="leads">Team Leads</string>
+    <string name="github">Github</string>
+    <string name="github_description">View our source code</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Join our Telegram discussion group</string>
+    <string name="web">Download Center</string>
+    <string name="web_description">Visit our download portal</string>
+    <string name="maintainers">Maintainers</string>
+    <string name="dev_1">mdeejay</string>
+    <string name="dev1_description">Founder, Device maintainer</string>
+    <string name="dev_2">SerJo87</string>
+    <string name="dev2_description">Designer</string>
+    <string name="designers">Designers</string>
+    <string name="maintainer_description">Maintains for %1$s</string>
+    <string name="donate">Donate</string>
+    <string name="donate_description">Support Us</string>
 
  </resources>
 

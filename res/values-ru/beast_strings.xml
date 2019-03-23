@@ -311,6 +311,24 @@
 	
     <string name="battery_charging">Заряжается</string>
     <string name="battery_discharging">Не заряжается</string>
+	
+    <!-- About BeastROMs -->
+    <string name="beast_about_info">О нас</string>
+    <string name="beast_about_summary">Наше введение и наша команда</string>
+    <string name="beast_about_info_summary">BeastROMs - это прошивка, основанная на AOSP/CAF, с возможностью кастомизации</string>
+    <string name="dev_info">О BeastROMs</string>
+    <string name="leads">Лидеры команды</string>
+    <string name="github_description">Наш исходный код</string>
+    <string name="telegram_description">Присоединяйтесь к нашей группе</string>
+    <string name="web">Центр загрузок</string>
+    <string name="web_description">Посетите наш центр загрузок</string>
+    <string name="maintainers">Сопровождающие</string>
+    <string name="dev1_description">Основатель, сопровождающий</string>
+    <string name="dev2_description">Дизайнер</string>
+    <string name="designers">Дизайнеры</string>
+    <string name="maintainer_description">Сопровождающий для %1$s</string>
+    <string name="donate">Поддержка</string>
+    <string name="donate_description">Материальная поддержка проекта</string>
 
  </resources>
 

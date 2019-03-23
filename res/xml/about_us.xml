@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 AospExtended ROM Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen
+xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/beast_about_info">
+
+<PreferenceCategory
+              android:key="about"
+              android:title="@string/dev_info" >
+
+        <Preference
+    android:summary="@string/beast_about_info_summary" >
+            <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://t.me/beastroms" />
+      </Preference>
+
+        <Preference
+            android:title="@string/github"
+    android:summary="@string/github_description"
+    android:icon="@drawable/ic_github" >
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://github.com/BeastRoms" />
+        </Preference>
+
+        <Preference
+            android:title="@string/telegram"
+    android:summary="@string/telegram_description"
+    android:icon="@drawable/ic_telegram" >
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://t.me/beastroms" />
+        </Preference>
+
+        <Preference
+    android:title="@string/web_description"
+    android:summary="@string/web"
+    android:icon="@drawable/ic_web" >
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://sourceforge.net/projects/beastroms/files/" />
+        </Preference>
+		
+        <Preference
+    android:title="@string/donate_description"
+    android:summary="@string/donate"
+    android:icon="@drawable/ic_donate" >
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://qiwi.com/p/79083261488" />
+        </Preference>
+
+     </PreferenceCategory>
+
+<PreferenceCategory
+              android:key="leads"
+              android:title="@string/leads" >
+
+       <Preference
+            android:title="@string/dev_1"
+    android:summary="@string/dev1_description"
+    android:icon="@drawable/ic_devs" >
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://t.me/mdeejay" />
+        </Preference>
+
+</PreferenceCategory>
+
+<PreferenceCategory
+              android:key="designers"
+              android:title="@string/designers" >
+
+       <Preference
+            android:title="@string/dev_2"
+    android:summary="@string/designers"
+    android:icon="@drawable/ic_design">
+    <intent
+               android:action="android.intent.action.VIEW"
+               android:data="https://t.me/Beer_Gammy" />
+      </Preference>
+
+</PreferenceCategory>
+
+<PreferenceCategory
+              android:key="maintainers"
+              android:title="@string/maintainers" >
+
+</PreferenceCategory>
+
+</PreferenceScreen>
