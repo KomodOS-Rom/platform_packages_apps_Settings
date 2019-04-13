@@ -50,7 +50,7 @@ public class DashboardProfileIcon extends RelativeLayout implements OnClickListe
         if (v == mUsers) {
             new SubSettingLauncher(getContext())
                     .setDestination(UserSettings.class.getName())
-                    .setSourceMetricsCategory(MetricsProto.MetricsEvent.SYBERIA)
+                    .setSourceMetricsCategory(MetricsProto.MetricsEvent.BEAST)
                     .launch();
         }
     }
