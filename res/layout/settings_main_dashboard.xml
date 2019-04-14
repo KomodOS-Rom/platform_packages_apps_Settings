@@ -43,7 +43,7 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/settings_label"
                 android:textColor="?android:attr/colorAccent"
-                android:textSize="20sp"
+                android:textSize="32sp"
                 android:textStyle="bold" />
 
             <com.android.settings.dashboard.DashboardProfileIcon
