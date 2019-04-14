@@ -16,7 +16,6 @@
     <string-array name="maintainers_title" translatable="false">
         <item>mdeejay</item>
         <item>bond_ua</item>
-        <item>ErrorNetwork28</item>
         <item>mdeejay</item>
    </string-array>
 
@@ -24,7 +23,6 @@
     <string-array name="maintainers_devices" translatable="false">
         <item>Xiaomi Redmi 5 Plus (vince)</item>
         <item>Xiaomi Redmi Note 5 (whyred)</item>
-        <item>Xiaomi Redmi 4X (santoni)</item>
         <item>Xiaomi Mi A1 (tissot)</item>
      </string-array>
 
@@ -32,7 +30,6 @@
     <string-array name="maintainers_url" translatable="false">
         <item>https://t.me/mdeejay</item>
         <item>https://t.me/bond_ua</item>
-        <item>https://t.me/ErrorNetwork28</item>
         <item>https://t.me/mdeejay</item>
      </string-array>
 
