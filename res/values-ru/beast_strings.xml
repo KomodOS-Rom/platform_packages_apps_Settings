@@ -390,6 +390,10 @@
     <string name="display_cutout_mode_title">Вырез в экране</string>
     <string name="display_cutout_mode_normal">По умолчанию</string>
     <string name="display_cutout_mode_hidden">Скрыть</string>
+	
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Приложения в полный экран</string>
+    <string name="display_cutout_force_fullscreen_summary">Приложения будут принудительно игнорировать вырез экрана</string>
 
  </resources>
 
