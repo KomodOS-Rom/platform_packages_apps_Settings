@@ -82,6 +82,7 @@
     <string name="battery_style_dotted_circle">Dotted circle</string>
     <string name="status_bar_battery_style_text">Text</string>  
     <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="battery_style_q">Android 10 style</string>
 
     <!-- Screenshot shutter sound -->
     <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>

@@ -76,6 +76,7 @@
     <string name="battery_style_dotted_circle">Пунктирный круг</string>
     <string name="status_bar_battery_style_text">Текст</string>  
     <string name="status_bar_battery_style_hidden">Скрыть</string>
+    <string name="battery_style_q">Стиль Андроид 10</string>
 
     <!-- Screenshot shutter sound -->
     <string name="screenshot_shutter_sound_title">Звук при создании скриншота</string>
