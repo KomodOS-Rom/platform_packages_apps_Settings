@@ -136,13 +136,6 @@
     <string name="omni_theme_select_none">Disabled</string>
     <string name="beast_theme_select_summary">Browse and select installed system themes</string>
 
-    <!-- Custom light color -->
-    <string name="custom_light_title">Light color</string>
-    <string name="custom_light_on_time_title">Light ON time during led pulse (ms)</string>
-    <string name="custom_light_off_time_title">Light OFF time during led pulse (ms)"</string>
-    <string name="value_equals_default">def</string>
-    <string name="show_light_on_zen_title">Blink during Do Not Disturb</string>
-
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
     <string name="display_rotation_disabled">Disabled</string>
@@ -357,6 +350,8 @@
     <string name="smart_charging_switch_title">Use Smart charging</string>
     <string name="smart_charging_level_title">Trigger level</string>
     <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
+	
+    <string name="value_equals_default">def</string>
 
  </resources>
 

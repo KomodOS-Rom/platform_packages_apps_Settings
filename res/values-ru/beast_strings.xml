@@ -130,13 +130,6 @@
     <string name="omni_theme_select_none">Отключить</string>
     <string name="beast_theme_select_summary">Поиск и выбор установленных тем</string>
 
-    <!-- Custom light color -->
-    <string name="custom_light_title">Цвет светодиода</string>
-    <string name="custom_light_on_time_title">Длительность свечения светодиода (мс)</string>
-    <string name="custom_light_off_time_title">Длительность затухания светодиода (мс)</string>
-    <string name="value_equals_default">умолч.</string>
-    <string name="show_light_on_zen_title">Включить светодиод в режиме «Не беспокоить»</string>
-
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Поворот экрана</string>
     <string name="display_rotation_disabled">Выключен</string>
