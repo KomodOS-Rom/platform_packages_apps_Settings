@@ -288,7 +288,7 @@
 	
     <!-- Expanded desktop -->
     <string name="expanded_desktop_pref_title">Расширенный экран</string>
-    <string name="expanded_desktop_pref_summary">Set expanded desktop globally or per-app</string>
+    <string name="expanded_desktop_pref_summary">Включить расширенный экран глобально или в приложениях.</string>
     <string name="expanded_hide_nothing">Ничего не скрывать</string>
     <string name="expanded_hide_status">Скрыть строку состояния</string>
     <string name="expanded_hide_navigation">Скрыть панель навигации</string>
