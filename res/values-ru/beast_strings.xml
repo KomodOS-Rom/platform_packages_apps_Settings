@@ -385,6 +385,11 @@
     <string name="smart_charging_footer">Умная зарядка позволяет вам установить максимальный уровень зарядки, чтобы продлить срок службы вашей батареи</string>
 	
     <string name="value_equals_default">умолч.</string>
+	
+    <!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Вырез в экране</string>
+    <string name="display_cutout_mode_normal">По умолчанию</string>
+    <string name="display_cutout_mode_hidden">Скрыть</string>
 
  </resources>
 
