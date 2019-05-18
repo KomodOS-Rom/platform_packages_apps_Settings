@@ -17,6 +17,7 @@
         <item>mdeejay</item>
         <item>bond_ua</item>
         <item>mdeejay</item>
+        <item>mdeejay</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -24,12 +25,14 @@
         <item>Xiaomi Redmi 5 Plus (vince)</item>
         <item>Xiaomi Redmi Note 5 (whyred)</item>
         <item>Xiaomi Mi A1 (tissot)</item>
+        <item>Pocophone F1 (beryllium)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
         <item>https://t.me/mdeejay</item>
         <item>https://t.me/bond_ua</item>
+        <item>https://t.me/mdeejay</item>
         <item>https://t.me/mdeejay</item>
      </string-array>
 
