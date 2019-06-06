@@ -19,6 +19,7 @@
         <item>mdeejay</item>
         <item>mdeejay</item>
         <item>obsvg216</item>
+        <item>mdeejay</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -27,7 +28,8 @@
         <item>Xiaomi Redmi Note 5 (whyred)</item>
         <item>Xiaomi Mi A1 (tissot)</item>
         <item>Pocophone F1 (beryllium)</item>
-        <item>Xiaomi Redmi Note 7 (lavender)</item>
+        <item>Redmi Note 7 (lavender)</item>
+        <item>Redmi Note 7 Pro (violet)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
@@ -37,6 +39,7 @@
         <item>https://t.me/mdeejay</item>
         <item>https://t.me/mdeejay</item>
         <item>https://t.me/obsvg216</item>
+        <item>https://t.me/mdeejay</item>
      </string-array>
 
 </resources>
