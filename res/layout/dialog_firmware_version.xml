@@ -28,7 +28,7 @@
         <ImageView
     	    android:layout_width="match_parent"
     	    android:layout_height="70dp"
-    	    android:src="@drawable/ic_beast_logo"
+    	    android:src="@drawable/ic_komodo_logo"
        	    android:tint="?android:attr/colorAccent"
        	    android:gravity="center"
     	    android:scaleType="centerInside"
@@ -47,16 +47,16 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
-        <!-- Beast version -->
+        <!-- Komodo version -->
         <TextView
             style="@style/device_info_dialog_label"
-            android:id="@+id/beast_version_label"
+            android:id="@+id/komodo_version_label"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/beast_version"/>
+            android:text="@string/komodo_version"/>
         <TextView
             style="@style/device_info_dialog_value"
-            android:id="@+id/beast_version"
+            android:id="@+id/komodo_version"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 

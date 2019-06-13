@@ -2,6 +2,7 @@
 <!--
 /*
 * Copyright (C) 2019 BeastROMS
+* Copyright (C) 2019 KomodOS ROM
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -58,9 +59,9 @@
     <string name="battery_stats_message">Battery history stats are going to be reset</string>
     <string name="ok_string">Ok</string>
  
-    <!-- Beast -->
-    <string name="beast_settings_title">Beast Settings</string>
-    <string name="beast_settings_summary">Tweak your Beast!</string>
+    <!-- Komodo -->
+    <string name="komodo_settings_title">KomodOS Settings</string>
+    <string name="komodo_settings_summary">Tweak your KomodOS!</string>
 
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">In-call vibration options</string>
@@ -127,14 +128,14 @@
      <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
     <string name="ringtone2_title">Phone ringtone - SIM 2</string>
 
-    <!-- Beast Version -->
-    <string name="beast_version">BeastROMs version</string>
-    <string name="beast_version_default">9.0</string>
+    <!-- KomodOS Version -->
+    <string name="komodo_version">KomodOS version</string>
+    <string name="komodo_version_default">9.0</string>
 
     <!-- Omni Themes -->
-    <string name="beast_theme_select_title">System themes</string>
+    <string name="komodo_theme_select_title">System themes</string>
     <string name="omni_theme_select_none">Disabled</string>
-    <string name="beast_theme_select_summary">Browse and select installed system themes</string>
+    <string name="komodo_theme_select_summary">Browse and select installed system themes</string>
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
@@ -310,8 +311,8 @@
     <string name="expanded_desktop_title">Expanded desktop options</string>
 	
     <!-- OTA -->
-    <string name="beastupdate_settings_title">BeastROMs updates</string>
-    <string name="beastupdate_settings_summary">Find new updates</string>
+    <string name="komodoupdate_settings_title">KomodOS updates</string>
+    <string name="komodoupdate_settings_summary">Find new updates</string>
 	
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
@@ -322,11 +323,11 @@
     <string name="battery_charging">Charging</string>
     <string name="battery_discharging">Discharging</string>
 	
-    <!-- About BeastROMs -->
-    <string name="beast_about_info">About us</string>
-    <string name="beast_about_summary">Our introduction and our team</string>
-    <string name="beast_about_info_summary">BeastROMs is an AOSP/CAF based Rom with customizations</string>
-    <string name="dev_info">About BeastROMs</string>
+    <!-- About KomodOS -->
+    <string name="komodo_about_info">About us</string>
+    <string name="komodo_about_summary">Our introduction and our team</string>
+    <string name="komodo_about_info_summary">KomodOS is an AOSP/CAF based Rom with customizations</string>
+    <string name="dev_info">About KomodOS</string>
     <string name="leads">Team Leads</string>
     <string name="github">Github</string>
     <string name="github_description">View our source code</string>
@@ -335,9 +336,9 @@
     <string name="web">Download Center</string>
     <string name="web_description">Visit our download portal</string>
     <string name="maintainers">Maintainers</string>
-    <string name="dev_1">mdeejay</string>
+    <string name="dev_1">Kry9toN and alanndz</string>
     <string name="dev1_description">Founder, Device maintainer</string>
-    <string name="dev_2">SerJo87</string>
+    <string name="dev_2">None</string>
     <string name="dev2_description">Designer</string>
     <string name="designers">Designers</string>
     <string name="maintainer_description">Maintains for %1$s</string>

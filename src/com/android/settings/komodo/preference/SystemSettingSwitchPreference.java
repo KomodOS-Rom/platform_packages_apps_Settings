@@ -3,6 +3,7 @@
  * Copyright (C) 2018 The LineageOS Project
  * Copyright (C) 2018 The PixelExperience Project
  * Copyright (C) 2019 BeastROMs
+ * Copyright (C) 2019 KomodOS ROM
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,7 +18,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.beast.preference;
+package com.android.settings.komodo.preference;
 
 import android.content.Context;
 import android.util.AttributeSet;

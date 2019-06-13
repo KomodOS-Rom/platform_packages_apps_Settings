@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.beast;
+package com.android.settings.komodo;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

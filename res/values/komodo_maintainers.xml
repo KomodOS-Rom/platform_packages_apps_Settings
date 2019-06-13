@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2019 BeastROMs
+     Copyright (C) 2019 KomodOS ROM
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -14,32 +15,20 @@
     <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">
-        <item>mdeejay</item>
-        <item>bond_ua</item>
-        <item>mdeejay</item>
-        <item>mdeejay</item>
-        <item>obsvg216</item>
-        <item>mdeejay</item>
+        <item>Kry9toN</item>
+        <item>alanndz</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
         <item>Xiaomi Redmi 5 Plus (vince)</item>
-        <item>Xiaomi Redmi Note 5 (whyred)</item>
-        <item>Xiaomi Mi A1 (tissot)</item>
-        <item>Pocophone F1 (beryllium)</item>
-        <item>Redmi Note 7 (lavender)</item>
-        <item>Redmi Note 7 Pro (violet)</item>
+        <item>Xiaomi Redmi 5 Plus (vince)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
-        <item>https://t.me/mdeejay</item>
-        <item>https://t.me/bond_ua</item>
-        <item>https://t.me/mdeejay</item>
-        <item>https://t.me/mdeejay</item>
-        <item>https://t.me/obsvg216</item>
-        <item>https://t.me/mdeejay</item>
+        <item>https://t.me/Kry9toN</item>
+        <item>https://t.me/alanndz</item>
      </string-array>
 
 </resources>

@@ -3368,12 +3368,12 @@
 
         <!-- This is the longest AndroidManifest.xml ever. -->
 
-        <activity android:name="Settings$BeastSettingsActivity"
-            android:label="@string/beast_settings_title"
-            android:icon="@drawable/ic_homepage_beast"
+        <activity android:name="Settings$KomodoSettingsActivity"
+            android:label="@string/komodo_settings_title"
+            android:icon="@drawable/ic_homepage_komodo"
             android:taskAffinity="">
             <intent-filter android:priority="9">
-                <action android:name="beast.settings.BeastSettings" />
+                <action android:name="komodo.settings.KomodoSettings" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <intent-filter>
@@ -3388,11 +3388,11 @@
             <meta-data android:name="com.android.settings.category"
                 android:value="com.android.settings.category.ia.homepage" />
             <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                android:value="com.beast.settings.BeastSettings" />
+                android:value="com.komodo.settings.KomodoSettings" />
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
                 android:value="true" />
             <meta-data android:name="com.android.settings.summary"
-                android:resource="@string/beast_settings_summary"/>
+                android:resource="@string/komodo_settings_summary"/>
         </activity>
 
     </application>

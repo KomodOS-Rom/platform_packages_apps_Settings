@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.beast.sound;
+package com.android.settings.komodo.sound;
 
 import java.util.HashMap;
 import java.util.HashSet;

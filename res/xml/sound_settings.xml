@@ -79,7 +79,7 @@
         settings:controller="com.android.settings.notification.NotificationVolumePreferenceController"/>
 		
     <!-- Link ringtone and notification volumes -->
-    <com.beast.settings.preferences.SecureSettingSwitchPreference
+    <com.komodo.settings.preferences.SecureSettingSwitchPreference
         android:key="volume_link_notification"
         android:title="@string/volume_link_notification_title"
         android:defaultValue="true"
@@ -97,7 +97,7 @@
         android:key="volume_steps"
 	android:title="@string/volume_steps_title"
 	android:summary="@string/volume_steps_summary"
-	android:fragment="com.android.settings.beast.sound.VolumeSteps"
+	android:fragment="com.android.settings.komodo.sound.VolumeSteps"
 	android:order="-120" />
 								
     <!-- Interruptions -->

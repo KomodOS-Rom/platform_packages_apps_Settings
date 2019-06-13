@@ -21,23 +21,23 @@ import android.support.annotation.VisibleForTesting;
 
 import com.android.settings.R;
 
-public class BeastVersionDialogController {
+public class KomodoVersionDialogController {
 
     @VisibleForTesting
-    private static final int BEAST_VERSION_VALUE_ID = R.id.beast_version;
-    private static final String BEAST_VERSION = "beast_version";
-    private static final String BEAST_PROP = "ro.beast.display.version";
+    private static final int KOMODO_VERSION_VALUE_ID = R.id.komodo_version;
+    private static final String KOMODO_VERSION = "komodo_version";
+    private static final String KOMODO_PROP = "ro.komodo.display.version";
 
     private final FirmwareVersionDialogFragment mDialog;
     private final Context mContext;
 
-    public BeastVersionDialogController(FirmwareVersionDialogFragment dialog) {
+    public KomodoVersionDialogController(FirmwareVersionDialogFragment dialog) {
         mDialog = dialog;
         mContext = dialog.getContext();
     }
 
     public void initialize() {
-         mDialog.setText(BEAST_VERSION_VALUE_ID, SystemProperties.get(BEAST_PROP,
+         mDialog.setText(KOMODO_VERSION_VALUE_ID, SystemProperties.get(KOMODO_PROP,
                 mContext.getResources().getString(R.string.device_info_default)));
     }
 }

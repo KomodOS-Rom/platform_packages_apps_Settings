@@ -118,7 +118,7 @@
         android:fragment="com.android.settings.display.AmbientDisplaySettings"
         settings:userRestriction="no_ambient_display" />
 		
-    <com.beast.settings.preferences.SystemSettingListPreference
+    <com.komodo.settings.preferences.SystemSettingListPreference
         android:key="display_cutout_hidden"
         android:title="@string/display_cutout_mode_title"
         android:entries="@array/display_cutout_mode_entries"
@@ -167,8 +167,8 @@
 		
     <Preference
          android:key="omni_theme_select_activity"
-         android:title="@string/beast_theme_select_title"
-         android:summary="@string/beast_theme_select_summary"
+         android:title="@string/komodo_theme_select_title"
+         android:summary="@string/komodo_theme_select_summary"
          android:persistent="false" >
          <intent android:action="android.intent.action.MAIN"
                  android:targetPackage="org.omnirom.omnistyle"
