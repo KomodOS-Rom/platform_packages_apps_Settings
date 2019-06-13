@@ -23,10 +23,10 @@
 	
     <!-- About us -->
     <Preference
-        android:key="beast_about_info"
+        android:key="komodo_about_info"
         android:order="0"
-        android:title="@string/beast_about_info"
-        android:summary="@string/beast_about_summary"
+        android:title="@string/komodo_about_info"
+        android:summary="@string/komodo_about_summary"
         android:fragment="com.android.settings.AboutUs" />
 
     <com.android.settings.applications.LayoutPreference
@@ -36,13 +36,13 @@
         android:selectable="false"/>
 		
     <!-- OTA -->
-    <Preference android:key="beast_updates"
+    <Preference android:key="komodo_updates"
         android:order="1"
-        android:title="@string/beastupdate_settings_title"
-        android:summary="@string/beastupdate_settings_summary">
+        android:title="@string/komodoupdate_settings_title"
+        android:summary="@string/komodoupdate_settings_summary">
         <intent android:action="android.intent.action.MAIN"
-            android:targetPackage="org.beast.ota"
-            android:targetClass="org.beast.ota.activities.UpdaterActivity" />
+            android:targetPackage="org.komodo.ota"
+            android:targetClass="org.komodo.ota.activities.UpdaterActivity" />
     </Preference>
 
     <!-- Device name -->
