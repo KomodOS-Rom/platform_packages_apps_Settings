@@ -50,6 +50,6 @@ import android.support.v7.preference.PreferenceCategory;
     }
      @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.KOMODO
+        return MetricsProto.MetricsEvent.KOMODO;
     }
  }
