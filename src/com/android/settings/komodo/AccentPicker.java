@@ -435,6 +435,6 @@ public class AccentPicker extends InstrumentedDialogFragment implements OnClickL
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.BEAST;
+        return MetricsProto.MetricsEvent.KOMODO;
     }
 }

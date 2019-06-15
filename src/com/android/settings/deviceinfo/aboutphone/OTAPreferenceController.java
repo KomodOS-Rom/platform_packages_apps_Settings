@@ -23,12 +23,12 @@ import com.android.settings.R;
 import com.android.settings.core.PreferenceControllerMixin;
 import com.android.settingslib.core.AbstractPreferenceController;
 
-import com.beast.settings.preferences.Utils;
+import com.komodo.settings.preferences.Utils;
 
 public class OTAPreferenceController extends AbstractPreferenceController
                 implements PreferenceControllerMixin {
 
-    private static final String KEY_BEAST_UPDATES = "beast_updates";
+    private static final String KEY_KOMODO_UPDATES = "komodo_updates";
     Context mContext;
 
     public OTAPreferenceController(Context context) {
@@ -38,11 +38,11 @@ public class OTAPreferenceController extends AbstractPreferenceController
 
     @Override
     public boolean isAvailable() {
-        return Utils.isPackageInstalled(mContext, "org.beast.ota");
+        return Utils.isPackageInstalled(mContext, "org.komodo.ota");
     }
 
     @Override
     public String getPreferenceKey() {
-        return KEY_BEAST_UPDATES;
+        return KEY_KOMODO_UPDATES;
     }
 }

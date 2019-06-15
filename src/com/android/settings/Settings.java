@@ -165,7 +165,7 @@ public class Settings extends SettingsActivity {
     public static class StorageDashboardActivity extends SettingsActivity {}
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
-    public static class BeastSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class KomodoSettingsActivity extends SettingsActivity { /* empty */ }
     public static class AmbientPlaySettingsActivity extends SettingsActivity { /* empty */ }
     public static class NavigationSettingsActivity extends SettingsActivity {}
     public static class SmartbarSettingsActivity extends SettingsActivity {}
