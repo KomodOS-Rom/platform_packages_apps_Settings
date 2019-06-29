@@ -17,12 +17,17 @@
     <string-array name="maintainers_title" translatable="false">
         <item>Kry9toN</item>
         <item>alanndz</item>
+        <Item>Kry9toN</item>
+        <item>Kry9toN</item>
+        <item>Kry9toN</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
         <item>Xiaomi Redmi 5 Plus (vince)</item>
         <item>Xiaomi Redmi 5 Plus (vince)</item>
+        <item>Xiaomi Redmi 4A (rolex)</item>
+        <item>Xiaomi Redmi 5A (riva)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
