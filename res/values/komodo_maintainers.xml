@@ -28,12 +28,16 @@
         <item>Xiaomi Redmi 5 Plus (vince)</item>
         <item>Xiaomi Redmi 4A (rolex)</item>
         <item>Xiaomi Redmi 5A (riva)</item>
+        <item>Xiaomi Redmi 4X (santoni)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
     <string-array name="maintainers_url" translatable="false">
         <item>https://t.me/Kry9toN</item>
         <item>https://t.me/alanndz</item>
+        <item>https://t.me/Kry9toN</item>
+        <item>https://t.me/Kry9toN</item>
+        <item>https://t.me/Kry9toN</item>
      </string-array>
 
 </resources>
