@@ -20,6 +20,8 @@
         <item>Kry9toN</item>
         <item>Kry9toN</item>
         <item>Kry9toN</item>
+        <item>Ahmad Thoriq Najahi</item>
+        <item>Agung Pratama</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -29,6 +31,8 @@
         <item>Xiaomi Redmi 4A (rolex)</item>
         <item>Xiaomi Redmi 5A (riva)</item>
         <item>Xiaomi Redmi 4X (santoni)</item>
+        <item>Asus Max Pro M1</item>
+        <item>Xiaomi Pocophone F1 (Beryllium)</item>
      </string-array>
 
     <!-- Telegram URL of maintainer -->
@@ -38,6 +42,8 @@
         <item>https://t.me/Kry9toN</item>
         <item>https://t.me/Kry9toN</item>
         <item>https://t.me/Kry9toN</item>
+        <item>https://t.me/najahiii</item>
+        <item>https://t.me/zeuslimitless</item>
      </string-array>
 
 </resources>
