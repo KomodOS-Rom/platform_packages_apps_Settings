@@ -338,6 +338,8 @@
     <string name="dev2_description">Founder, Device maintainer</string>
     <string name="dev_3">Mr Fikruns</string>
     <string name="designers">Designers</string>
+    <string name="dev_4">Ahmad Thoriq Najahi</string>
+    <string name="dev4_description">Core Devs, Device maintainer</string>
     <string name="maintainer_description">Maintains for %1$s</string>
     <string name="donate">Donate</string>
     <string name="donate_description">Support Us</string>
