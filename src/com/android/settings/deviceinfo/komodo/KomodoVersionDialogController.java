@@ -24,7 +24,7 @@ import com.android.settings.R;
 
 public class KomodoVersionDialogController {
 
-    private static final String KOMODO_PROPERTY = "ro.modversion";
+    private static final String KOMODO_PROPERTY = "ro.komodo.display.version";
     private static final int KOMODO_VERSION_VALUE_ID = R.id.komodo_version_value;
     private static final int KOMODO_VERSION_LABEL_ID = R.id.komodo_version_label;
 
