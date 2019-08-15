@@ -66,8 +66,8 @@
     <!-- Komodo Updater -->
     <string name="update_settings_title">Komodo Updater</string>
     <string name="update_settings_summary">Check for the latest version of the rom</string>
-    <string name="update_package" translatable="false">org.komodo.updater</string>
-    <string name="update_activity" translatable="false">org.komodo.updater.UpdatesActivity</string>
+    <string name="update_package" translatable="false">org.komodo.ota</string>
+    <string name="update_activity" translatable="false">org.komodo.ota.activities.UpdaterActivity</string>
 
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">In-call vibration options</string>
