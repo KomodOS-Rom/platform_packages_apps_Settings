@@ -358,6 +358,7 @@
     <!-- Notch behavior -->
     <string name="display_cutout_mode_title">Notch behavior</string>
     <string name="display_cutout_mode_normal">Default</string>
+    <string name="display_cutout_mode_immerse">Immerse</string>
     <string name="display_cutout_mode_hidden">Hidden</string>
 	
     <!-- Notch: Full screen apps -->
